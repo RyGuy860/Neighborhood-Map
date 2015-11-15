@@ -1,6 +1,6 @@
 ## Neighborhood Map Project 5!
 
-Welcome to my fifth project with Udacity.
+Welcome to my 5th project with Udacity.
 
 I will take you on a short tour of the local attractions in the
 great city of Atlanta, GA.  Also showing you some of the local favorite bars within
