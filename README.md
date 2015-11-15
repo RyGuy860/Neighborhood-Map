@@ -16,7 +16,7 @@ walking distance from each attraction.
 ## How to use the map..
 
 There are three ways to search for attractions within Neighborhood Maps
-1. Utilize the search input box to filter the specific loaction you would like to view and click on name of the attraction.
+1. Utilize the search input box to filter the specific loaction you would like to view and click on the name of the attraction.
 2. Click on the marker that is located on the map to view the infoWindow and view the closest bars
 3. Click on the names located under the search bar to view the infoWindow and view the closest bars
 
@@ -32,7 +32,7 @@ Todo MVC Knockout Example
 
 ## How I completed this project..
 1. Knockout.js has a very interactive learning platform and I highly encourage going to www.knockoutjs.com and following their interactive tutorials.
-2. Google also has great documentation to help you through the creating a custome map at https://developers.google.com/maps/documentation/javascript/
-3. Bootstrap has a great documentation to help set up responsive sites www.getbootstrap.com
+2. Google has excellent documentation to help you create a custom map at https://developers.google.com/maps/documentation/javascript/
+3. Bootstrap has great documentation to help set up responsive sites www.getbootstrap.com
 4. www.jquery.com
-5. Reviewed: Udacity's JavaScript Design Patterens, Intro to AJAX and JavaScript Design Patterns
+5. Reviewed: Udacity's: JavaScript Design Patterens, Intro to AJAX and JavaScript Design Patterns
