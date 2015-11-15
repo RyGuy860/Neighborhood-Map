@@ -23,13 +23,13 @@ There are three ways to search for attractions within Neighborhood Maps
 
 ## Helpful Resources!!
 
-Foursquare API
-MediaWikiAPI for Wikipedia
-Google Maps Street View Service
-Google Maps
-Project 5 Overview WebCast
-Knockout JS Tutorials
-Todo MVC Knockout Example
+1. Foursquare API
+2. MediaWikiAPI for Wikipedia
+3. Google Maps Street View Service
+4. Google Maps JavaScript API
+5. Project 5 Overview WebCast
+6. Knockout JS Tutorials
+7. Todo MVC Knockout Example
 
 ## How I completed this project..
 1. Knockout.js has a very interactive learning platform and I highly encourage going to www.knockoutjs.com and following their interactive tutorials.
