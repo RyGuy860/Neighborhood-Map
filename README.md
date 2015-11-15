@@ -16,6 +16,7 @@ walking distance from each attraction.
 ## How to use the map..
 
 There are three ways to search for attractions within Neighborhood Maps
+
 1. Utilize the search input box to filter the specific loaction you would like to view and click on the name of the attraction.
 2. Click on the marker that is located on the map to view the infoWindow and view the closest bars
 3. Click on the names located under the search bar to view the infoWindow and view the closest bars
