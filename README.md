@@ -8,7 +8,7 @@ walking distance from each attraction.
 
 ## Getting started!
 
-1. You can fork this project at <a href="github.com/RyGuy860/frontend-nanodegree-Neighborhood-Map"> </a>
+1. You can fork this project at http://ryguy860.github.io/Neighborhood-Map/
 2. You can then clone this project to your local host.
 3. Click on the index.html file and load the Neighborhood map in the browser of your choice.
 
