@@ -1,0 +1,60 @@
+{
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+}
+
+html, body {
+	height: 100%;
+	margin:0;
+	padding: 0px;
+}
+
+.container-fluid {
+	height: 100%;
+}
+
+.row {
+	height: 100%;
+}
+
+#sidebar{
+	background-color: black;
+	height: 100%;
+}
+
+#place-list {
+	color: white;
+	font-size: 10px;
+	margin-left: -30px;
+	margin-top: 20px;
+}
+
+p {
+	color: white;
+}
+
+#map {
+	height: 100%;
+	float: right;
+	padding-bottom: 100%;
+	}
+
+#search {
+	padding-top: 20px;
+
+}
+
+li {
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+
+#boxtext {
+	max-width: 100%;
+}
+
+li:hover{
+	background-color: Red;
+	max-width: 100%;
+}
