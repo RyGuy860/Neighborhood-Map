@@ -34,5 +34,5 @@ Todo MVC Knockout Example
 1. Knockout.js has a very interactive learning platform and I highly encourage going to www.knockoutjs.com and following their interactive tutorials.
 2. Google also has great documentation to help you through the creating a custome map at https://developers.google.com/maps/documentation/javascript/
 3. Bootstrap has a great documentation to help set up responsive sites www.getbootstrap.com
-4. jquery.com
+4. www.jquery.com
 5. Reviewed: Udacity's JavaScript Design Patterens, Intro to AJAX and JavaScript Design Patterns
