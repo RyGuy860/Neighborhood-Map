@@ -1,13 +1,15 @@
-{
-  -webkit-box-sizing: content-box;
-     -moz-box-sizing: content-box;
-          box-sizing: content-box;
+
+*{
+	-moz-box-sizing: border-box;
+ 	-webkit-box-sizing: border-box;
+ 	 box-sizing: border-box;
 }
 
 html, body {
 	height: 100%;
 	margin:0;
 	padding: 0px;
+
 }
 
 .container-fluid {
@@ -16,45 +18,52 @@ html, body {
 
 .row {
 	height: 100%;
-}
+	background-color: rgba(169, 169, 169, 0.65);
 
-#sidebar{
-	background-color: black;
-	height: 100%;
 }
 
 #place-list {
-	color: white;
-	font-size: 10px;
+	color: #00FFFF;
+	font-size: 20px;
 	margin-left: -30px;
-	margin-top: 20px;
+	margin-top: 10px;
+	}
+@media screen and (max-width: 600px) {
+	#place-list {
+		color:#00FFFF;
+		font-size: 9px;
+	}
 }
 
-p {
+.attractionList:hover{
 	color: white;
+}
+
+.row {
+	max-height: 1280px;
 }
 
 #map {
 	height: 100%;
-	float: right;
-	padding-bottom: 100%;
-	}
-
-#search {
-	padding-top: 20px;
 
 }
 
-li {
+#search{
 	padding-top: 10px;
-	padding-bottom: 5px;
+
+}
+
+li{
+	padding-top: 10px;
+
 }
 
 #boxtext {
 	max-width: 100%;
+
 }
 
 li:hover{
-	background-color: Red;
+
 	max-width: 100%;
-}
+
